@@ -126,3 +126,4 @@ app.listen(port,()=>{
     console.log(`server running on http://localhost:${port}`)
 })
 
+module.exports = app;
